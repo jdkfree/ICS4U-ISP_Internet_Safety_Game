@@ -1,0 +1,1 @@
+java -cp safespace.jar com.tds.demo.SplashScreen
